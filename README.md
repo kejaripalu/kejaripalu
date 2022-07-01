@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kejaripalu
+- 👋 Hi, Selamat Datang di Repository @kejaripalu
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,3 +8,5 @@
 kejaripalu/kejaripalu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Repository ini merupakan kumpulan project opensource yang dibuat oleh Kejaksaan Negeri Palu.
