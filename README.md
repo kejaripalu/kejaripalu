@@ -9,4 +9,4 @@ kejaripalu/kejaripalu is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-Repository ini merupakan kumpulan project opensource yang dibuat oleh Kejaksaan Negeri Palu (non official).
+Repository ini merupakan kumpulan project opensource Kejaksaan Negeri Palu.
